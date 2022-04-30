@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HwTheme>
+    <title>Min_Level_1</title>
+    <title-cn>Min_Level_1</title-cn>
+    <author>Grigorii Lutkov</author>
+    <designer>Grigorii Lutkov</designer>
+    <screen>HWHD02</screen>
+    <version>2.3.1</version>
+    <font>Default</font>
+    <font-cn>默认</font-cn>
+    <briefinfo>{"en_US":"My Theme (Analog + Digit)"}</briefinfo>
+</HwTheme>
